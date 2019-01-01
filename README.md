@@ -1,2 +1,2 @@
 # Python
-This is the collection of all the challenges I have completed in py.
+This repository consist of all the challenges I have attemted in Python.
